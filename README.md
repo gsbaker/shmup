@@ -10,6 +10,6 @@ was simply following a YouTube tutorial.
 using native frameworks. 
 
 So that's using [Swift](https://swift.org) and the [SwiftUI](https://developer.apple.com/xcode/swiftui/) framework. If I was
-to make a game, I would just write it natively in Swift and then publish it on the app store. 
+to make a game, I would just write it natively in Swift and then publish it on the App Store. 
 
 So, although Pygame is a great framework, I most likely won't be using it again.
