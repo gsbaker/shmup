@@ -1,15 +1,7 @@
-# shmup
-An Example PyGame Project.
+# Shmup
+A 2D desktop arcade game. You're a spaceship that has to shoot down big rocks falling from the top of the screen.
 
-## This is an old project
-I did this project for fun about 5 years ago. I have completely forgotten PyGame! In fact, I didn't understand it back then; I 
-was simply following a YouTube tutorial. 
+## How it's made
+This game is written in Python using the [Pygame](https://www.pygame.org/news) library.
 
-## Will I pick up PyGame again?
-... probably not. I could totally learn it quickly with the experience I have now. However, my focus has shifted towards 
-using native frameworks. 
-
-So that's using [Swift](https://swift.org) and the [SwiftUI](https://developer.apple.com/xcode/swiftui/) framework. If I was
-to make a game, I would just write it natively in Swift and then publish it on the App Store. 
-
-So, although Pygame is a great framework, I most likely won't be using it again.
+I followed along with [this YouTube tutorial](https://www.youtube.com/watch?v=nGufy7weyGY).
