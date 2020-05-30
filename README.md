@@ -1,4 +1,4 @@
-# Shmup
+# shmup
 A 2D desktop arcade game. You're a spaceship that has to shoot down big rocks falling from the top of the screen.
 
 ## How it's made

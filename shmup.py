@@ -280,10 +280,7 @@ meteor_list = ['meteorBrown_big1.png', 'meteorBrown_big2.png', 'meteorBrown_med1
 for img in meteor_list:
     meteor_images.append(pygame.image.load(path.join(img_dir, img)).convert())
 
-explosion_anim = {}
-explosion_anim['lg'] = []
-explosion_anim['sm'] = []
-explosion_anim['player'] = []
+explosion_anim = {'lg': [], 'sm': [], 'player': []}
 
 for i in range(9):
     filename = 'regularexplosion0{}.png'.format(i)
